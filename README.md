@@ -1,4 +1,4 @@
-### Hi there 👋
+### Youngjin Yang 👋
 
 <!--
 **ojin0611/ojin0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ojin0611)](https://solved.ac/ojin0611)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fojin0611&count_bg=%233D67C8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojin0611&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Youngjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojin0611&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojin0611&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
